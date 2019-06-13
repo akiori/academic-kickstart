@@ -21,22 +21,25 @@ date_format = "Jan 2006"
   title = "Ph.D. candidate"
   company = "Zhejiang University"
   company_url = ""
-  location = "P.R.China"
+  location = "China"
   date_start = "2015-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
+
+[[experience]]
+  title = "Visiting Student"
+  company = "University of California, Davis"
+  company_url = ""
+  location = "United States"
+  date_start = "2017-09-13"
+  date_end = "2018-10-07"
+  description = """"""
 
 [[experience]]
   title = "Bachelor"
   company = "Zhejiang University"
   company_url = ""
-  location = "P.R.China"
+  location = "China"
   date_start = "2011-09-01"
   date_end = "2015-07-01"
   description = """Majored in Information and Computing Science of Mathematics Department."""

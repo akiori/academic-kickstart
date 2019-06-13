@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Junhua Lu
 
 # Username (this should match the folder name)
 authors:
-- admin
+- akiori
 
 # Is this the primary user of the site?
 superuser: true
