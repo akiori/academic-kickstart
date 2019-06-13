@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "P.R.China"
   date_start = "2011-09-01"
   date_end = "2015-07-01"
-  description = """Majored in Information and Computing Sciencen of Mathematics Department."""
+  description = """Majored in Information and Computing Science of Mathematics Department."""
 
 +++
