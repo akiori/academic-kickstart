@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate of Visualization and Visual Analytics
+role: Ph.D. candidateVisual Analytics Group (VAG)
 
 # Organizations/Affiliations
 organizations:
-- name: Zhejiang University
+- name: State Key Lab of CAD&CG, Zhejiang University
   url: "http://www.zju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Information Visualization
+- Visual Analytics
+- Data Mining
+- Data Storytelling
 
 education:
   courses:
@@ -44,13 +45,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/junhua_aki
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ucYufvsAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/akiori
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi, I am Junhua Lu, a Ph.D. student of State Key Lab of CAD&CG and a member of Visual Analytics Group (supervised by Prof. Wei Chen) at Zhejiang University, P.R.China. My research interest lies in information visualization and visual analytics.
