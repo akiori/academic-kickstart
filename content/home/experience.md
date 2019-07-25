@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2015-09-01"
   date_end = ""
-  description = """"""
+  description = """Supervised by [Kwan-Liu Ma](https://web.cs.ucdavis.edu/~ma/) at Visualization & Interface Design Innovation [(VIDi Lab)]https://vidi.cs.ucdavis.edu/ in University of California - Davis"""
 
 [[experience]]
   title = "Visiting Student"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "United States"
   date_start = "2017-09-13"
   date_end = "2018-10-07"
-  description = """"""
+  description = """Majored in **Computer Science and Technology**."""
 
 [[experience]]
   title = "Bachelor"
