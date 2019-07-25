@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = ""
   description = """This Specialization is offered by deeplearning.ai. Five courses are included:
+  
    * Neural Networks and Deep Learning
    * Improving Deep Neural Networks: Hyperparameter tuning
    * Regularization and Optimization
