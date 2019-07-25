@@ -9,7 +9,8 @@ summary: A talk about our PacificVis Paper 'Visual Analytics of Dynamic Interpla
 
 image: 
   caption: 'Image credit: [Max Natthawur Adulyanukosol](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: ""
+  preview_only: false
 
 links:
 - icon: twitter
