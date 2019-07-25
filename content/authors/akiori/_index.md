@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate
-Visual Analytics Group (VAG)
+role: Ph.D. candidate of Visual Analytics Group (VAG)
 
 # Organizations/Affiliations
 organizations:
