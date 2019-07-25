@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidateVisual Analytics Group (VAG)
+role: Ph.D. candidate
+Visual Analytics Group (VAG)
 
 # Organizations/Affiliations
 organizations:
 - name: State Key Lab of CAD&CG, Zhejiang University
-  url: "http://www.zju.edu.cn/"
+  url: "http://www.cad.zju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Junhua Lu, a Ph.D. student of State Key Lab of CAD&CG and a member of Visual Analytics Group (supervised by Prof. Wei Chen) at Zhejiang University, P.R.China. My research interest lies in information visualization and visual analytics.
+Hi, I am Junhua Lu, a Ph.D. student of State Key Lab of CAD&CG and a member of [Visual Analytics Group](http://www.cad.zju.edu.cn/home/vagblog/) (supervised by Prof. [Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) at Zhejiang University, P.R.China. My research interest lies in information visualization and visual analytics.
