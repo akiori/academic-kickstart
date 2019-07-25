@@ -29,8 +29,7 @@ date_format = "Jan 2006"
   description = """This Specialization is offered by [deeplearning.ai](https://www.deeplearning.ai/). Five courses are included:
 
    * Neural Networks and Deep Learning
-   * Improving Deep Neural Networks: Hyperparameter tuning
-   * Regularization and Optimization
+   * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
    * Structuring Machine Learning Projects
    * Convolutional Neural Networks
    * Sequence Models
